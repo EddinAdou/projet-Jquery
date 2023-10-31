@@ -50,7 +50,7 @@ header h1
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url('/images/bwimg.webp') no-repeat;
+    background: url('images/bwimg.webp') no-repeat;
     opacity: 0.7;
 }
 .color
@@ -60,7 +60,7 @@ header h1
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url('/images/acteurs.webp') no-repeat;
+    background: url('images/acteurs.webp') no-repeat;
 }
 #part2 div
 {
